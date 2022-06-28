@@ -1,3 +1,3 @@
-# Python installation packages and third-party libraries
+# Python installation packages and third-party packages
 
-## Warning, do not use this Python and libraries in your production environment
+## Warning, do not use this Python and packages in your production environment
