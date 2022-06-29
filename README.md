@@ -13,5 +13,6 @@ Compile or collect native toolchains that running on Windows-on-ARM64
         * [Pillow](./Python/packages/Pillow)
         * [matplotlib](./Python/packages/matplotlib)
         * [pycryptodome](./Python/packages/pycryptodome)
+        * [opencv-python](./Python/packages/opencv-python)
 * [LxRunOffline](./LxRunOffline)
     * [LxRunOffline official repository](https://github.com/DDoSolitary/LxRunOffline)
