@@ -17,6 +17,6 @@ Compile or collect native toolchains that running on Windows-on-ARM64
         * [pygame-dev](./Python/packages/pygame)
 * [LxRunOffline](./LxRunOffline)
     * [LxRunOffline official repository](https://github.com/DDoSolitary/LxRunOffline)
-* [JetbrainsIdeaIC](./IdeaIC)
+* [Jetbrains IdeaIC](./IdeaIC)
     * [intellij-community official repository](https://github.com/JetBrains/intellij-community)
     
