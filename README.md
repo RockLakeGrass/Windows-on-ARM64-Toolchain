@@ -10,6 +10,7 @@ Compile or collect native toolchains that running on Windows-on-ARM64
         * [3.9](./Python/installer/python-3.9.13-arm64.exe)
         * [3.10](./Python/installer/python-3.10.5-arm64.exe)
     * [Python packages](./Python/packages)
+        * [numpy](./Python/packages/numpy)
         * [Pillow](./Python/packages/Pillow)
         * [matplotlib](./Python/packages/matplotlib)
         * [pycryptodome](./Python/packages/pycryptodome)
