@@ -25,7 +25,7 @@ Compile or collect native toolchains that running on Windows-on-ARM64
                 * [PyQt6-DataVisualization](./Python/packages/PyQt/PyQt6/PyQt6-DataVisualization)
                 * [PyQt6-NetworkAuth](./Python/packages/PyQt/PyQt6/PyQt6-NetworkAuth)
                 * [PyQt6-QScintilla](./Python/packages/PyQt/PyQt6/PyQt6-QScintilla)
-            * [PyQt5](./Python/packages/PyQt/PyQt6)
+            * [PyQt5](./Python/packages/PyQt/PyQt5)
                 * [PyQt5-sip](./Python/packages/PyQt/PyQt5/PyQt5-sip)
                 * [PyQt5-5.15.5(main)](./Python/packages/PyQt/PyQt5/PyQt5-5.15.5)
                 * [PyQt5-3D](./Python/packages/PyQt/PyQt5/PyQt3D-5)
