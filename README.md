@@ -29,3 +29,4 @@ Compile or collect native toolchains that running on Windows-on-ARM64
     * [LxRunOffline official repository](https://github.com/DDoSolitary/LxRunOffline)
 * [Jetbrains IdeaIC](./IdeaIC)
     * [intellij-community official repository](https://github.com/JetBrains/intellij-community)
+* [MarkText](https://github.com/RockLakeGrass/Windows-ARM64-marktext/releases)
