@@ -1,6 +1,6 @@
 # Windows-on-ARM64-Toolchain
 
-Compile or collect native toolchains that running on Windows-on-ARM64
+Compile or collect native tools that running on Windows-on-ARM64
 
 ## List
 
