@@ -31,3 +31,5 @@ Compile or collect native toolchains that running on Windows-on-ARM64
     * [intellij-community official repository](https://github.com/JetBrains/intellij-community)
 * [MarkText](https://github.com/RockLakeGrass/Windows-ARM64-marktext/releases)
 * [Dev-Sidecar](./Dev-Sidecar)
+* [Nginx](./Nginx)
+    * [Nginx official repository](https://nginx.org)
