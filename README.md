@@ -25,6 +25,8 @@ Compile or collect native tools that running on Windows-on-ARM64
                 * [PyQt6-DataVisualization](./Python/packages/PyQt/PyQt6/PyQt6-DataVisualization)
                 * [PyQt6-NetworkAuth](./Python/packages/PyQt/PyQt6/PyQt6-NetworkAuth)
                 * [PyQt6-QScintilla](./Python/packages/PyQt/PyQt6/PyQt6-QScintilla)
+* [Perl](./Perl)
+    * [Perl official repository](https://github.com/Perl/perl5)
 * [LxRunOffline](./LxRunOffline)
     * [LxRunOffline official repository](https://github.com/DDoSolitary/LxRunOffline)
 * [Jetbrains IdeaIC](./IdeaIC)
