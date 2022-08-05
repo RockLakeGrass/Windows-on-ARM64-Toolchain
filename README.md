@@ -35,6 +35,8 @@ Compile or collect native tools that running on Windows-on-ARM64
     * [Nginx official repository](https://nginx.org)
 * [SASM](./SASM)
     * [SASM official repository](https://github.com/Dman95/SASM)
+* [LLVM-MSVC](./LLVM)
+    * [LLVM official repository](https://github.com/llvm/llvm-project)
 * [Qt6](./Qt6)
     * [Qt6 Static](./Qt6/Static)
     * [Qt6 Dynamic](./Qt6/Dynamic)
