@@ -42,6 +42,8 @@ Compile or collect native tools that running on Windows-on-ARM64
     * [SASM official repository](https://github.com/Dman95/SASM)
 * [LLVM-MSVC](./LLVM)
     * [LLVM official repository](https://github.com/llvm/llvm-project)
+* [Motrix](./Motrix)
+    * [Motrix official repository](https://github.com/agalwood/Motrix)
 * [QuickLook](./QuickLook)
 * [Dev-Sidecar](./Dev-Sidecar)
 * [lzma-native](https://github.com/RockLakeGrass/lzma-native-Windows-ARM64)
