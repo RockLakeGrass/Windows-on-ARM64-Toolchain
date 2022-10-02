@@ -36,6 +36,8 @@ Compile or collect native tools that running on Windows-on-ARM64
     * [MPV official repository](https://github.com/mpv-player/mpv)
 * [MPV.net](./MPVNet)
     * [MPV.net official repository](https://github.com/stax76/mpv.net)
+* [FFmpeg](./FFmpeg)
+    * [FFmpeg official repository](https://github.com/FFmpeg/FFmpeg)
 * [Perl](./Perl)
     * [Perl official repository](https://github.com/Perl/perl5)
 * [LxRunOffline](./LxRunOffline)
