@@ -16,6 +16,7 @@ Compile or collect native tools that running on Windows-on-ARM64
         * [pycryptodome](./Python/packages/pycryptodome)
         * [opencv-python](./Python/packages/opencv-python)
         * [pygame-dev](./Python/packages/pygame)
+        * [pywinpty](./Python/packages/pywinpty)
         * [PyQt](./Python/packages/PyQt)
             * [PyQt6](./Python/packages/PyQt/PyQt6)
                 * [PyQt6-sip](./Python/packages/PyQt/PyQt6/PyQt6-sip)
